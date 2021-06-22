@@ -10,4 +10,9 @@ public class AbstractFactory {
 	public void add() {
 		
 	}
+	
+	// commit 2
+		public void subtract() {
+			
+		}
 }
