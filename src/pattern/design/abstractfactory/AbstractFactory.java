@@ -20,4 +20,9 @@ public class AbstractFactory {
 	public void print() {
 
 	}
+	
+	// commit 4
+		public void printf() {
+
+		}
 }
