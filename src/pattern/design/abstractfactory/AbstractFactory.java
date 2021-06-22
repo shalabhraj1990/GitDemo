@@ -5,4 +5,9 @@ public class AbstractFactory {
 		IRenderUi renderui = new AbstractFactoryCls().getUI(1);
 		System.out.println(renderui.renderUI());
 	}
+	
+	// commit 1
+	public void add() {
+		
+	}
 }
